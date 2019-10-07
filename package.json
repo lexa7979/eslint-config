@@ -1,6 +1,6 @@
 {
 	"name": "@lexa79/eslint-config",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Personal configuration of ESLint v6",
 	"main": "index.js",
 	"scripts": {
