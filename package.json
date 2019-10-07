@@ -1,0 +1,26 @@
+{
+	"name": "@lexa7979/eslint-config",
+	"version": "1.0.0",
+	"description": "Personal configuration of ESLint v6",
+	"main": "index.js",
+	"scripts": {
+		"publish": "npm publish --access public"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/lexa7979/eslint-config.git"
+	},
+	"keywords": [
+		"ESLint",
+		"configuration"
+	],
+	"author": "alexander.urban@cygni.se",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/lexa7979/eslint-config/issues"
+	},
+	"homepage": "https://github.com/lexa7979/eslint-config#readme",
+	"peerDependencies": {
+		"eslint": ">=6"
+	}
+}
