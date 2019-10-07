@@ -1,10 +1,10 @@
 {
-	"name": "@lexa7979/eslint-config",
+	"name": "@lexa79/eslint-config",
 	"version": "1.0.0",
 	"description": "Personal configuration of ESLint v6",
 	"main": "index.js",
 	"scripts": {
-		"publish": "npm publish --access public"
+		"put": "npm publish --access public"
 	},
 	"repository": {
 		"type": "git",
