@@ -93,6 +93,7 @@ module.exports = {
 		} ],
 		"max-statements": [ "warn", 20 ],
 		"max-lines-per-function": [ "warn", 50 ],
+		"max-lines": [ "error", 500 ],
 		"func-style": [ "error", "declaration", { allowArrowFunctions: true } ],
 		"no-multi-spaces": [ "error", {
 			ignoreEOLComments: true,
@@ -123,7 +124,7 @@ module.exports = {
 		"dot-location": [ "error", "property" ],
 		"no-eq-null": "off",
 		"eqeqeq": [ "error", "always", { null: "ignore" } ],
-		"jest/no-large-snapshots": [ "warn", { maxSize: 50 } ],
+		// "jest/no-large-snapshots": [ "warn", { maxSize: 50 } ],
 	},
 	// https://github.com/yannickcr/eslint-plugin-react#configuration
 	settings: {
