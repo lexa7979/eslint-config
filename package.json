@@ -1,8 +1,8 @@
 {
 	"name": "@lexa79/eslint-config",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Personal configuration of ESLint v6",
-	"main": "index.js",
+	"main": ".eslintrc.js",
 	"scripts": {
 		"put": "npm publish --access public"
 	},

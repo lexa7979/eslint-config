@@ -124,6 +124,7 @@ module.exports = {
 		"dot-location": [ "error", "property" ],
 		"no-eq-null": "off",
 		"eqeqeq": [ "error", "always", { null: "ignore" } ],
+		"strict": [ "error", "global" ],
 		// "jest/no-large-snapshots": [ "warn", { maxSize: 50 } ],
 	},
 	// https://github.com/yannickcr/eslint-plugin-react#configuration
